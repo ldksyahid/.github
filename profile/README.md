@@ -5,6 +5,23 @@ Banyak yang dapat dilakukan di sini dengan tujuan membantu hajat banyak orang kh
 
 Orgaization ini dikelola oleh Tim IT Support LDK Syahid
 
+## Alur Pengembangan Fitur
+- Suggestions (saran)
+
+  Kami dapat menerima saran ataupun kritik terkait pengembangan dan akan ditampung di sini.
+  
+- To Do (akan dilakukan)
+
+  Saran yang disetujui tim akan ditampung di sini.
+  
+- On Progress (sedang dilakukan)
+
+  Saran sedang dikerjakan ditampung di sini.
+  
+- Done (selesai)
+
+  Segala saran yang selesai ditampung di sini.
+
 ## Organization Structure
 - Development and Operations a.k.a. DevOps
   - Cloud Engineer
