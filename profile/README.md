@@ -1,10 +1,24 @@
-## Selamat Datang di LDK Syahid UIN Syarif Hidayatullah Jakarta 👋
+# Selamat Datang di LDK Syahid UIN Syarif Hidayatullah Jakarta 👋
 
 Di sini merupakan pusat kolaborasi pengembangan IT pada LDK Syahid.
 Banyak yang dapat dilakukan di sini dengan tujuan membantu hajat banyak orang khususnya pada LDK Syahid itu sendiri
 
+Orgaization ini dikelola oleh Tim IT Support LDK Syahid
 
-ORG ini dikelola oleh Tim IT Support LDK Syahid
+## Organization Structure
+- Development and Operations a.k.a. DevOps
+  - Cloud Engineer
+  - Fullstack Developer (also known as Web Developer)
+    - Backend
+    - Frontend
+  - Quality Assurance
+  
+- UI/UX
+- Non-IT
+  - Researcher (Soon)
+
+> https://www.ldksyah.id/itsupport
+
 <!--
 
 **Here are some ideas to get you started:**
