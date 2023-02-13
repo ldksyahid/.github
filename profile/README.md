@@ -1,5 +1,10 @@
-## Hi there 👋
+## Selamat Datang di LDK Syahid UIN Syarif Hidayatullah Jakarta 👋
 
+Di sini merupakan pusat kolaborasi pengembangan IT pada LDK Syahid.
+Banyak yang dapat dilakukan di sini dengan tujuan membantu hajat banyak orang khususnya pada LDK Syahid itu sendiri
+
+
+ORG ini dikelola oleh Tim IT Support LDK Syahid
 <!--
 
 **Here are some ideas to get you started:**
